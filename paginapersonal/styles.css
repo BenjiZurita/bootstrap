@@ -18,3 +18,37 @@ header {
   top: 0;
   z-index: 1000;
 }
+body{
+  background-color: violet;
+}
+h1{
+  color:aliceblue;
+  font-size: 60px;  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.entradilla{
+  color:aliceblue
+  font-size 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-text{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:aliceblue;
+}
+.card-title{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:aliceblue;
+}
+.btn{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:aliceblue;
+}
+.modal-body{
+  
+}
+.modal-title{
+
+}
+.modal-footer{
+
+}
