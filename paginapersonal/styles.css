@@ -41,14 +41,14 @@ h1{
 }
 .btn{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color:aliceblue;
+  color: black;
 }
 .modal-body{
-  
+  color:aliceblue;
 }
 .modal-title{
-
+  color:aliceblue;
 }
-.modal-footer{
-
+.btn{
+  color:black;
 }
